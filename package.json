@@ -1,8 +1,11 @@
 {
   "name": "cdk-palworld",
   "version": "0.1.0",
+  "description": "Use AWS CDK to provision infrastructure for a dedicated PalWorld server",
+  "license": "MIT",
+  "author": "andrewgadzik@gmail.com",
   "bin": {
-    "cdk-palworld": "bin/cdk-palworld.js"
+    "cdk-palworld": "bin/app.js"
   },
   "scripts": {
     "build": "tsc",
