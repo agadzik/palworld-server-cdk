@@ -59,3 +59,9 @@ All PRs are welcome!
 ## License
 
 This project is licensed under the MIT License.
+
+## Kudos
+
+[briancaffey](https://github.com/briancaffey) for his work on [valheim-cdk-discord-interactions](https://github.com/briancaffey/valheim-cdk-discord-interactions) project. This project is heavily inspired by his work.
+
+[thijsvanloef](https://github.com/thijsvanloef) for his work on [palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) project. This project directly uses his Docker image for the Palworld server.
